@@ -1,7 +1,7 @@
 {
   "friendly_name": "windows",
   "image_src": "windows.png",
-  "description": null,
+  "description": "windows demo",
   "name": "dockurr/windows",
   "cores": 2,
   "memory": 2768,
