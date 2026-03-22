@@ -20,7 +20,7 @@ glob("../workspaces/**/workspace.json", async function (err, files) {
 
 		let details = {
 			version: '1.16.x',
-			image: parsed.name.split(':')[0] + ':1.16.0-rolling-daily',
+      //image: parsed.name.split(':')[0] + ':1.16.0-rolling-daily',
 			uncompressed_size_mb: parsed.uncompressed_size_mb,
 			available_tags: [
 				'develop',
