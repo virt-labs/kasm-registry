@@ -4,7 +4,7 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Kasm Technologies',
+    name: 'kl0ud',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://virt-labs.github.io/kasm-registry/',
